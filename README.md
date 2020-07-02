@@ -1,7 +1,7 @@
 Kaggle TReNDS Neuroimaging
 ====
 
-My solution in this Kaggle competition ["Predicting Molecular Properties"](https://www.kaggle.com/c/trends-assessment-prediction), 20th place.
+My solution in this Kaggle competition ["TReNDS Neuroimaging"](https://www.kaggle.com/c/trends-assessment-prediction), 20th place.
 
 ![solution](https://raw.githubusercontent.com/toshi-k/kaggle-trends-assessment-prediction/master/img/concept.png)
 
