@@ -23,9 +23,13 @@ Finally, conventional MLP is applied and prediction for age and other target var
 
 # Acknowledgement
 
-I used Rohit's public notebook to preprocess spatial maps.
+The preprocess function for fMRI spatial maps is forked from Rohit's public notebook.
 
-- TReNDS - EDA + Visualization + Simple Baseline <br>https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline
+- TReNDS - EDA + Visualization + Simple Baseline<br>https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline
+
+The custom loss function to optimize normalized absolute errors is forked from Tawara's public notebook.
+
+- TReNDS：Simple NN Baseline<br>https://www.kaggle.com/ttahara/trends-simple-nn-baseline
 
 # References
 
